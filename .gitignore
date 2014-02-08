@@ -1,0 +1,4 @@
+mysite/*.pyc
+polls/*.pyc
+mysite/settings.py
+*~
